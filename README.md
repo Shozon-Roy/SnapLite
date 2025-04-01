@@ -31,7 +31,10 @@ SnapLite is a powerful web application that enables users to download Facebook v
 
 ## 🌐 Live Demo
 
+Try SnapLite live on [Orginal Url](https://snaplite.onrender.com)
+
 Try SnapLite live on [Here](https://shozon-roy.github.io/SnapLite/)
+
 
 ## 💡 Usage
 
