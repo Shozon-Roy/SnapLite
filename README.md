@@ -3,7 +3,7 @@
 
 A modern, fast, and user-friendly Facebook video downloader that allows users to download videos in HD quality without watermarks.
 
-![SnapLite Preview](https://raw.githubusercontent.com/your-username/snaplite/main/preview.png)
+![SnapLite Preview](https://raw.githubusercontent.com/Shozon-Roy/SnapLite/refs/heads/main/preview_20250401_221217.jpg)
 
 ## 🚀 Overview
 
@@ -31,7 +31,7 @@ SnapLite is a powerful web application that enables users to download Facebook v
 
 ## 🌐 Live Demo
 
-Try SnapLite live on [Here](https://snaplite.yourusername.repl.co)
+Try SnapLite live on [Here](https://shozon-roy.github.io/SnapLite/)
 
 ## 💡 Usage
 
