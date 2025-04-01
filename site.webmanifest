@@ -5,12 +5,12 @@
   "description": "Fast and free Facebook video downloader",
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "https://raw.githubusercontent.com/Shozon-Roy/SnapLite/refs/heads/main/logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "https://raw.githubusercontent.com/Shozon-Roy/SnapLite/refs/heads/main/logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
